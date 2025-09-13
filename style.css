@@ -1,0 +1,65 @@
+header, img{
+  display: block;
+    margin: 0 auto;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    }
+
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .What {
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .qwerty {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .why {
+    text-align: center;
+  }
+
+  .cont {
+    display: flex;
+  }
+  .Mine{
+    text-align:center;
+    margin-top: -35px;
+  }
+  .Craft{
+    text-align:right;
+    margin-top: -35px;
+  }
+  .tv{
+    height: 300px;
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 3px 23px 6px white;
+  }
+  footer{
+    text-align: center;
+    font-weight: 600;
+  }
+.leg{
+    text-align: center;
+    font-weight: 600;
+  }
